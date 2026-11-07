@@ -1,0 +1,21 @@
+case_id,title,text,gold_event_type,gold_risk_category,gold_severity
+C01,Developer halts work on Jeddah tower after funding gap,Work on the 60-storey tower has stopped indefinitely while the developer seeks new investors.,Project Suspension,Operational,High
+C02,Ministry withdraws metro extension contract from contractor,The transport ministry has withdrawn the Phase 2 contract after the contractor failed to meet mobilisation milestones.,Contract Cancellation,Operational,High
+C03,Airport expansion now expected to open in 2029 instead of 2027,The opening of the new terminal has slipped by two years after design changes and late approvals.,Project Delay,Operational,Medium
+C04,Contractor bags $1.2bn housing deal in Riyadh,A local contractor has been selected to build 8000 homes under a government housing programme.,Contract Award,Market,Low
+C05,Stadium budget doubles to $4bn,The cost of the new stadium has doubled from its original estimate due to design upgrades and material inflation.,Cost Overrun,Financial,High
+C06,Saudi Arabia introduces new building code for high-rise towers,A new mandatory fire and structural code will apply to all towers above 20 storeys from January.,Regulatory Change,Regulatory,Medium
+C07,Steel rebar shortages slow projects across the UAE,Contractors report rebar deliveries taking up to 12 weeks as port congestion worsens.,Supply Chain Disruption,Operational,Medium
+C08,Subcontractors say main contractors owe them months of arrears,Small subcontractors report invoices outstanding for over 180 days on several government-funded projects.,Payment Risk,Financial,Medium
+C09,Engineering firm lays off 400 engineers in Dubai,The firm is cutting 400 jobs as its pipeline of new work shrinks.,Workforce Change,Operational,Medium
+C10,Construction firm posts record half-year profit,Net income rose 40% on higher margins from infrastructure work.,Financial Result,Financial,Low
+C11,Kuwait construction output expected to grow 4% next year,Analysts forecast steady growth in Kuwaiti construction driven by oil-sector and housing spending.,Market Trend,Market,Low
+C12,Giga-project scaled down to a third of original size,The developer said the scheme would now cover 30% of its original footprint after a strategic review.,Project Suspension,Operational,High
+C13,Contractor files for insolvency leaving hospital project unfinished,The contractor's collapse has left a 500-bed hospital half-built with no replacement appointed.,Contract Cancellation,Operational,High
+C14,Labour ministry tightens worker housing rules,New rules set minimum space and ventilation standards for construction worker accommodation.,Regulatory Change,Regulatory,Low
+C15,Red Sea attacks push up freight costs for building materials,Shipping lines are rerouting vessels around Africa adding three weeks and higher insurance costs to imports.,Supply Chain Disruption,Operational,High
+C16,Road project handover pushed back by one week,The handover ceremony for the coastal road was moved by one week to accommodate officials' schedules.,Project Delay,Operational,Low
+C17,Qatar awards fall 40% as World Cup pipeline winds down,Project awards in Qatar fell sharply year on year with few large tenders in the market.,Market Trend,Market,Medium
+C18,Developer terminates design consultant after dispute,The developer ended the consultant's appointment following a dispute over fees and design scope.,Contract Cancellation,Operational,High
+C19,Contractor wins arbitration over unpaid variation claims,A tribunal ordered the employer to pay $85m in outstanding variation claims to the contractor.,Payment Risk,Financial,Medium
+C20,Cement prices jump 25% after kiln closures,Two cement plants have shut kilns for maintenance pushing prices up across the region.,Supply Chain Disruption,Operational,Medium
