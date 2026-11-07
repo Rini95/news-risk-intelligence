@@ -1,4 +1,0 @@
-,pred Low,pred Medium,pred High
-true Low,1,0,0
-true Medium,1,2,0
-true High,0,1,2
