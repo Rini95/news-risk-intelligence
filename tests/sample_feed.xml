@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Hand-made sample in Google News RSS format, used only to test collect_rss.py offline. -->
+<rss version="2.0"><channel><title>sample</title>
+<item><title>Neom terminates $5bn Trojena dams contract with Webuild - MEED</title><link>https://example.org/a1</link>
+<pubDate>Mon, 20 Jul 2026 08:00:00 GMT</pubDate><description>&lt;a href="x"&gt;Neom terminates $5bn Trojena dams contract&lt;/a&gt;</description><source url="https://www.meed.com">MEED</source></item>
+<item><title>Neom terminates $5bn Trojena dams contract with Webuild - Zawya</title><link>https://example.org/a2</link>
+<pubDate>Mon, 20 Jul 2026 09:00:00 GMT</pubDate><description>same story, other outlet</description></item>
+<item><title>Jazeera Airways receives first A320neo under 26-aircraft order - TradeArabia</title><link>https://example.org/a3</link>
+<pubDate>Sun, 18 Oct 2026 08:00:00 GMT</pubDate><description>airline news</description></item>
+<item><title>Qiddiya construction launch delayed by three days - Gulf News</title><link>https://example.org/a4</link>
+<pubDate>Thu, 26 Apr 2018 08:00:00 GMT</pubDate><description>old story</description></item>
+<item><title>Heisco wins $359m EPC contract for KOC facilities</title><link>https://example.org/a5</link>
+<pubDate>Sat, 17 Oct 2026 08:00:00 GMT</pubDate><description>Kuwait contract award</description></item>
+</channel></rss>
