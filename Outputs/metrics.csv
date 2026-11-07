@@ -1,0 +1,37 @@
+dataset,target,system,accuracy,macro_precision,macro_recall,macro_f1
+gold,event_type,majority class,0.133,0.013,0.1,0.024
+gold,event_type,rules v1 (Phase 1),0.4,0.326,0.364,0.318
+gold,event_type,rules v2 (tuned on gold),1.0,1.0,1.0,1.0
+challenge,event_type,majority class,0.05,0.005,0.091,0.009
+challenge,event_type,rules v1 (Phase 1),0.05,0.083,0.028,0.042
+challenge,event_type,rules v2,0.35,0.417,0.25,0.303
+gold (LOO),event_type,ML logreg,0.0,0.0,0.0,0.0
+challenge,event_type,ML logreg,0.3,0.238,0.242,0.212
+gold (LOO),event_type,ML linear_svm,0.0,0.0,0.0,0.0
+challenge,event_type,ML linear_svm,0.35,0.392,0.333,0.32
+gold (LOO),event_type,ML naive_bayes,0.0,0.0,0.0,0.0
+challenge,event_type,ML naive_bayes,0.3,0.298,0.288,0.244
+gold,risk_category,majority class,0.533,0.133,0.25,0.174
+gold,risk_category,rules v1 (Phase 1),0.6,0.3,0.438,0.354
+gold,risk_category,rules v2 (tuned on gold),1.0,1.0,1.0,1.0
+challenge,risk_category,majority class,0.55,0.138,0.25,0.177
+challenge,risk_category,rules v1 (Phase 1),0.2,0.289,0.273,0.11
+challenge,risk_category,rules v2,0.35,0.6,0.256,0.347
+gold (LOO),risk_category,ML logreg,0.533,0.143,0.25,0.182
+challenge,risk_category,ML logreg,0.6,0.395,0.333,0.308
+gold (LOO),risk_category,ML linear_svm,0.533,0.143,0.25,0.182
+challenge,risk_category,ML linear_svm,0.6,0.395,0.333,0.308
+gold (LOO),risk_category,ML naive_bayes,0.4,0.262,0.24,0.25
+challenge,risk_category,ML naive_bayes,0.4,0.315,0.322,0.288
+gold,severity,majority class,0.333,0.111,0.333,0.167
+gold,severity,rules v1 (Phase 1),0.467,0.512,0.467,0.481
+gold,severity,rules v2 (tuned on gold),1.0,1.0,1.0,1.0
+challenge,severity,majority class,0.35,0.117,0.333,0.173
+challenge,severity,rules v1 (Phase 1),0.25,0.088,0.333,0.139
+challenge,severity,rules v2,0.25,0.542,0.184,0.273
+gold (LOO),severity,ML logreg,0.2,0.167,0.2,0.177
+challenge,severity,ML logreg,0.35,0.361,0.365,0.355
+gold (LOO),severity,ML linear_svm,0.2,0.167,0.2,0.177
+challenge,severity,ML linear_svm,0.35,0.361,0.365,0.355
+gold (LOO),severity,ML naive_bayes,0.267,0.217,0.267,0.236
+challenge,severity,ML naive_bayes,0.3,0.294,0.299,0.294

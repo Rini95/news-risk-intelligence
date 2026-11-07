@@ -1,0 +1,7 @@
+condition,event_type_accuracy,risk_category_accuracy,severity_accuracy
+full text,1.0,1.0,1.0
+body only (no headline),0.8,0.867,1.0
+headline only,0.867,0.867,0.8
+10% words dropped (mean of 30 runs),0.944,0.953,0.951
+20% words dropped (mean of 30 runs),0.904,0.922,0.918
+30% words dropped (mean of 30 runs),0.856,0.884,0.871
