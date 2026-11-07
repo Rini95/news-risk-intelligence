@@ -1,0 +1,16 @@
+article_id,event_type,risk_category,severity,ml_event_type,ml_event_type_prob,ml_risk_category,ml_risk_category_prob,ml_severity,ml_severity_prob,rules_v1_event_type,rules_v2_event_type,rules_v1_risk_category,rules_v2_risk_category,rules_v1_severity,rules_v2_severity
+1,Project Suspension,Operational,High,Contract Award,0.18,Operational,0.46,Low,0.42,Project Suspension,Project Suspension,Operational,Operational,Low,High
+2,Contract Cancellation,Operational,High,Contract Award,0.21,Operational,0.41,Low,0.46,Contract Cancellation,Contract Cancellation,Operational,Operational,High,High
+3,Cost Overrun,Financial,High,Project Delay,0.23,Operational,0.59,Medium,0.47,Project Delay,Cost Overrun,Operational,Financial,High,High
+4,Contract Award,Market,Low,Payment Risk,0.15,Operational,0.38,Low,0.44,Contract Award,Contract Award,Market,Market,Low,Low
+5,Contract Award,Market,Low,Project Suspension,0.19,Operational,0.65,High,0.53,Contract Award,Contract Award,Market,Market,Low,Low
+6,Market Trend,Market,Low,Payment Risk,0.2,Operational,0.4,Medium,0.39,Other,Market Trend,Market,Market,Medium,Low
+7,Supply Chain Disruption,Operational,High,Project Suspension,0.26,Operational,0.54,High,0.47,Contract Cancellation,Supply Chain Disruption,Operational,Operational,High,High
+8,Regulatory Change,Regulatory,Medium,Payment Risk,0.21,Operational,0.47,High,0.4,Project Delay,Regulatory Change,Operational,Regulatory,Medium,Medium
+9,Supply Chain Disruption,Operational,Medium,Project Suspension,0.21,Operational,0.54,High,0.5,Other,Supply Chain Disruption,Market,Operational,Low,Medium
+10,Workforce Change,Operational,Medium,Project Suspension,0.18,Operational,0.57,High,0.51,Workforce Change,Workforce Change,Operational,Operational,Low,Medium
+11,Project Suspension,Operational,High,Supply Chain Disruption,0.31,Operational,0.63,High,0.53,Contract Cancellation,Project Suspension,Operational,Operational,High,High
+12,Payment Risk,Financial,Low,Supply Chain Disruption,0.14,Operational,0.46,Medium,0.46,Project Delay,Payment Risk,Operational,Financial,Medium,Low
+13,Payment Risk,Financial,Medium,Market Trend,0.18,Market,0.41,Low,0.58,Supply Chain Disruption,Payment Risk,Operational,Financial,Low,Medium
+14,Project Delay,Operational,Low,Project Suspension,0.14,Operational,0.39,High,0.37,Project Delay,Project Delay,Operational,Operational,Medium,Low
+15,Project Delay,Operational,Medium,Cost Overrun,0.18,Operational,0.39,High,0.53,Other,Project Delay,Market,Operational,Low,Medium

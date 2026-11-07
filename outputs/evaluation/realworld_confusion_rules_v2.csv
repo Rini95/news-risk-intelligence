@@ -1,0 +1,11 @@
+,pred Contract Award,pred Contract Cancellation,pred Cost Overrun,pred Financial Result,pred Market Trend,pred No Risk Event,pred Project Delay,pred Project Suspension,pred Regulatory Change,pred Supply Chain Disruption
+true Contract Award,4,0,0,0,0,12,0,0,0,0
+true Contract Cancellation,0,2,0,0,0,0,0,0,0,0
+true Cost Overrun,0,0,0,0,0,1,0,0,0,0
+true Financial Result,0,0,0,0,0,1,0,0,0,0
+true Market Trend,1,0,0,0,0,10,0,0,0,0
+true No Risk Event,0,0,1,0,0,67,1,0,0,1
+true Project Delay,0,0,0,0,0,0,1,0,0,0
+true Project Suspension,0,0,0,0,0,1,0,0,0,0
+true Regulatory Change,0,0,0,0,0,2,0,0,0,0
+true Supply Chain Disruption,0,0,0,0,0,2,0,0,0,1
